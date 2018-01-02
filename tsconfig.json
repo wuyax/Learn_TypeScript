@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./js/hello.js",
+        "sourceMap": true
+    },
+    "include": [
+        "ts/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
