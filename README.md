@@ -9,3 +9,5 @@
 [入门教程](https://www.gitbook.com/book/xcatliu/typescript-tutorial/details)
 
 [参考书籍 Pro Typescript](https://item.jd.com/1454836466.html)
+
+TS 版本 3.0
