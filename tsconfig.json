@@ -5,8 +5,10 @@
         "removeComments": true,
         "preserveConstEnums": true,
         "outFile": "./js/hello.js",
-        "sourceMap": true
+        "sourceMap": true,
+        "target": "es6"
     },
+    "compileOnSave": true,
     "include": [
         "ts/*.ts"
     ],
