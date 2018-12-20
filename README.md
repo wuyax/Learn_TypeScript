@@ -1,4 +1,4 @@
-### 这是一个学习TypeScript的一些测是和总结。
+### 这是一个学习TypeScript的一些测试和总结。
 
 
 ### 参考资源
@@ -10,4 +10,4 @@
 
 [参考书籍 Pro Typescript](https://item.jd.com/1454836466.html)
 
-TS 版本 3.0
+TS 版本 3.2.2
