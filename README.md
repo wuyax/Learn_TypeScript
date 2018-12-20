@@ -6,6 +6,8 @@
 
 [编译选项 Compiler Options](http://www.typescriptlang.org/docs/handbook/compiler-options.html)
 
+[第三方的库的声明文件](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
 [入门教程](https://www.gitbook.com/book/xcatliu/typescript-tutorial/details)
 
 [参考书籍 Pro Typescript](https://item.jd.com/1454836466.html)
